@@ -81,13 +81,4 @@ Access the project via your browser:
 **Developed with ❤️ by [Abrar Akhunji](https://github.com/abrar225)**
 
 For any queries or support, feel free to reach out!
-- [2025-01-24T19:58:47] docs(readme): improve documentation notes and usage guidelines
-- [2025-05-22T11:18:57] docs(readme): improve documentation notes and usage guidelines
-- [2025-06-25T19:26:10] style: enhance README formatting and badge definitions
-- [2025-10-06T17:27:40] style: enhance README formatting and badge definitions
-- [2025-10-22T12:56:56] docs(readme): improve documentation notes and usage guidelines
-- [2025-11-12T10:34:41] style: enhance README formatting and badge definitions
-- [2025-12-18T13:34:49] docs(readme): improve documentation notes and usage guidelines
-- [2026-01-29T14:13:23] docs(readme): improve documentation notes and usage guidelines
-- [2026-02-03T10:20:41] docs(readme): improve documentation notes and usage guidelines
-- [2026-04-09T12:03:53] docs(readme): improve documentation notes and usage guidelines
+<!-- [2024-10-16T20:49:31] docs(readme): update project documentation and overview -->
