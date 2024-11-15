@@ -1,16 +1,1 @@
-- [2025-03-01T17:35:10] refactor: clean up internal module structure and comments
-- [2025-03-22T20:37:19] refactor: clean up internal module structure and comments
-- [2025-05-28T10:48:38] refactor: clean up internal module structure and comments
-- [2025-08-06T22:23:43] refactor: clean up internal module structure and comments
-- [2025-08-19T19:01:10] chore: update contribution activity and project metrics
-- [2025-08-31T19:09:27] refactor: clean up internal module structure and comments
-- [2025-10-25T10:13:38] refactor: clean up internal module structure and comments
-- [2026-05-08T16:43:56] chore: update contribution activity and project metrics
-- [2026-05-08T17:18:56] chore: update contribution activity and project metrics
-- [2026-05-14T11:15:28] refactor: clean up internal module structure and comments
-- [2026-06-02T09:29:08] chore: update contribution activity and project metrics
-- [2026-06-02T12:24:44] chore: update contribution activity and project metrics
-- [2026-07-06T21:51:08] refactor: clean up internal module structure and comments
-- [2026-07-17T11:48:57] chore: update contribution activity and project metrics
-- [2026-07-27T13:19:20] chore: update contribution activity and project metrics
-- [2026-08-05T15:22:15] chore: update contribution activity and project metrics
+<!-- [2024-11-15T17:19:09] refactor: optimize internal helper structures -->
