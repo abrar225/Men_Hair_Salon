@@ -81,3 +81,4 @@ Access the project via your browser:
 **Developed with ❤️ by [Abrar Akhunji](https://github.com/abrar225)**
 
 For any queries or support, feel free to reach out!
+- [2025-01-24T19:58:47] docs(readme): improve documentation notes and usage guidelines
