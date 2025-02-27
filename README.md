@@ -82,3 +82,4 @@ Access the project via your browser:
 
 For any queries or support, feel free to reach out!
 <!-- [2024-10-16T20:49:31] docs(readme): update project documentation and overview -->
+<!-- [2025-02-27T10:14:06] docs(readme): update project documentation and overview -->
