@@ -86,3 +86,4 @@ For any queries or support, feel free to reach out!
 <!-- [2025-03-06T18:12:50] docs(readme): update project documentation and overview -->
 <!-- [2025-05-01T13:10:51] style: improve formatting and badge alignment -->
 <!-- [2025-05-01T15:36:40] docs(readme): update project documentation and overview -->
+<!-- [2025-05-05T18:52:23] style: improve formatting and badge alignment -->
