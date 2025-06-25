@@ -83,3 +83,4 @@ Access the project via your browser:
 For any queries or support, feel free to reach out!
 - [2025-01-24T19:58:47] docs(readme): improve documentation notes and usage guidelines
 - [2025-05-22T11:18:57] docs(readme): improve documentation notes and usage guidelines
+- [2025-06-25T19:26:10] style: enhance README formatting and badge definitions
