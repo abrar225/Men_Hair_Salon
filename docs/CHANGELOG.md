@@ -6,3 +6,4 @@
 <!-- [2026-01-09T11:31:38] docs(changelog): update version release notes -->
 <!-- [2026-01-22T15:36:21] fix: minor edge case handling in config parser -->
 <!-- [2026-01-23T21:21:17] fix: minor edge case handling in config parser -->
+<!-- [2026-01-29T22:48:44] fix: minor edge case handling in config parser -->
