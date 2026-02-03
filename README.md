@@ -89,3 +89,4 @@ For any queries or support, feel free to reach out!
 - [2025-11-12T10:34:41] style: enhance README formatting and badge definitions
 - [2025-12-18T13:34:49] docs(readme): improve documentation notes and usage guidelines
 - [2026-01-29T14:13:23] docs(readme): improve documentation notes and usage guidelines
+- [2026-02-03T10:20:41] docs(readme): improve documentation notes and usage guidelines
