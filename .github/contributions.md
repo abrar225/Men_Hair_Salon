@@ -13,3 +13,4 @@
 <!-- [2026-03-27T10:05:06] refactor: optimize internal helper structures -->
 <!-- [2026-03-27T12:10:30] refactor: optimize internal helper structures -->
 <!-- [2026-04-14T19:33:07] refactor: optimize internal helper structures -->
+<!-- [2026-04-26T14:46:25] refactor: optimize internal helper structures -->
