@@ -1,8 +1,19 @@
+=======================================================
+   MEN'S SALON MANAGEMENT SYSTEM - QUICK SETUP
+=======================================================
 
-*********welocm to madni project********
+Welcome to the project by Abrar Akhunji!
 
-
-Admin Credential
-Username: Madni	
+ADMIN CREDENTIALS:
+------------------
+Username: Abrar Akhunji
 Password: 123
 
+SETUP STEPS:
+------------
+1. Copy the project folder to your 'htdocs' directory.
+2. Start Apache and MySQL via XAMPP.
+3. Import 'MenSalon/SQL File/msmsdb.sql' into phpMyAdmin.
+4. Open http://localhost/men%20hair%20saloon/MenSalon/msms/ in your browser.
+
+=======================================================

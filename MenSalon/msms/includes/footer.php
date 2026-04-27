@@ -274,7 +274,7 @@ if(isset($_POST['sub'])) {
                         </li>
                         <li class="contact-item">
                             <i class="fas fa-envelope contact-icon"></i>
-                            <span>madnisheth1234@gmail.com</span>
+                            <span>abrar akhunjisheth1234@gmail.com</span>
                         </li>
                     <?php } ?>
                 </ul>

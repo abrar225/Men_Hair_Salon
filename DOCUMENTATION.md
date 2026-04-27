@@ -35,18 +35,17 @@ The system uses a database named `msmsdb`. Key tables include:
 
 ## 5. Directory Structure
 ```text
-shanwaz/
 ├── MenSalon/
-│   ├── msms/                   # Source code
-│   │   ├── admin/              # Admin panel files
-│   │   ├── includes/           # Database connection & shared components
-│   │   ├── css/                # Stylesheets
-│   │   ├── js/                 # JavaScript files
-│   │   ├── images/             # Image assets
-│   │   └── (Main PHP files)    # index.php, appointment.php, etc.
-│   ├── SQL File/               # Database SQL script
-│   └── Installation Guide.txt  # Quick setup info
-└── README.md                   # Hinglish project overview
+│   ├── msms/                   # Core application source code
+│   │   ├── admin/              # Administrative dashboard and logic
+│   │   ├── includes/           # DB connection and reusable components
+│   │   ├── css/                # Custom stylesheets
+│   │   ├── js/                 # Client-side scripts
+│   │   ├── images/             # System assets and uploaded images
+│   │   └── (Root PHP files)    # Main entry points (index, login, etc.)
+│   ├── SQL File/               # Database export for import
+│   └── Installation Guide.txt  # Quick start summary
+└── README.md                   # Visual project overview
 ```
 
 ## 6. Deployment Requirements
@@ -56,8 +55,8 @@ shanwaz/
 
 ## 7. Developer Information
 - **Project Name:** Men's Salon Management System
-- **Developer:** Madni
+- **Developer:** Abrar Akhunji
 - **Documentation Updated:** April 2026
 
 ---
-© 2026 Madni Projects. All rights reserved.
+© 2026 Abrar Akhunji Projects. All rights reserved.

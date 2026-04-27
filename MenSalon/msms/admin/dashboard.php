@@ -2,7 +2,7 @@
 /**
  * Project Name: Men's Salon Management System (MSMS)
  * Module: Admin Dashboard
- * Developer: Madni
+ * Developer: Abrar Akhunji
  */
 session_start();
 error_reporting(0);

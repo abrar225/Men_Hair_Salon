@@ -1,50 +1,83 @@
-# Men's Salon Management System (MSMS) 💇‍♂️🧔
+# 💇‍♂️ Men's Salon Management System (MSMS)
 
-Doston, ye ek complete **Men's Salon Management System** hai jise PHP aur MySQL ka use karke banaya gaya hai. Is project ka main maqsad salon ke appointments aur services ko digitalize aur easy banana hai.
+![Banner](MenSalon/msms/images/banner.png)
 
-## 🚀 Features (Khasiyat)
-
-### 👤 User Side (Grahak ke liye):
-- **Homepage:** Ek sundar landing page jahan salon ke baare mein jankari milti hai.
-- **Service List:** Salon kaun-kaun si services provide karta hai uski puri list.
-- **Online Appointment:** Grahak ghar baithe apne hisaab se time slot book kar sakte hain.
-- **User Login/Signup:** User apna account bana sakte hain aur purane appointments dekh sakte hain.
-
-### 🛠️ Admin Side (Owner ke liye):
-- **Dashboard:** Yahan admin ko sab kuch ek hi jagah dikh jayega (Total customers, Total appointments, etc.).
-- **Manage Services:** Admin nayi services add kar sakta hai, purani edit ya delete kar sakta hai.
-- **Appointment Management:** Naye appointments ko accept ya reject karne ki suvidha.
-- **Reports:** Sales reports aur date-wise reports generate karne ka option.
-- **Customer Management:** Saare registered customers ki list dekhna aur manage karna.
-
-## 💻 Tech Stack (Kisme bana hai?)
-- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap (for responsive design).
-- **Backend:** PHP (Core PHP).
-- **Database:** MySQL.
-- **Server:** XAMPP / WAMP / LAMP.
-
-## ⚙️ Installation Guide (Setup kaise karein?)
-
-1. **Step 1:** Is project folder ko apne XAMPP ke `htdocs` folder mein copy karein.
-2. **Step 2:** XAMPP Control Panel se `Apache` aur `MySQL` ko start karein.
-3. **Step 3:** Browser mein `localhost/phpmyadmin` open karein.
-4. **Step 4:** Ek naya database banayein jiska naam **`msmsdb`** rakhein.
-5. **Step 5:** `MenSalon/SQL File/msmsdb.sql` file ko import karein.
-6. **Step 6:** `MenSalon/msms/includes/dbconnection.php` file mein database details check karein.
-7. **Step 7:** Ab browser mein URL type karein: `localhost/shanwaz/MenSalon/msms/index.php`.
-
-## 🔑 Admin Credentials (Login Details)
-- **Username:** Madni
-- **Password:** 123
-- **Admin Login URL:** `localhost/shanwaz/MenSalon/msms/admin/index.php`
-
-## 📂 Project Structure
-- `MenSalon/msms/admin/`: Admin panel ki saari files.
-- `MenSalon/msms/includes/`: Database connection aur common files.
-- `MenSalon/msms/images/`: Assets aur images.
-- `MenSalon/SQL File/`: Database SQL script.
+Welcome to the **Men's Salon Management System**, a comprehensive, robust, and user-friendly web application designed to streamline salon operations. Built with **PHP** and **MySQL**, this system simplifies appointment booking, service management, and customer tracking for modern barbershops and salons.
 
 ---
-**Developed with ❤️ by Madni**
-Agar koi sawal ho toh be-jhijhak puchein!
-# Men_Hair_Salon
+
+## 🌟 Key Features
+
+### 👤 Customer Features
+- **Modern Landing Page:** A sleek, responsive homepage showcasing salon services and branding.
+- **Service Catalog:** Detailed list of available grooming services with pricing.
+- **Online Appointment Booking:** Easy-to-use interface for clients to book their grooming sessions.
+- **User Dashboard:** Customers can manage their profiles and track their appointment history.
+
+### 🛠️ Admin Features
+- **Dynamic Dashboard:** Real-time overview of total customers, appointments, and pending requests.
+- **Service Management:** Effortlessly add, update, or remove salon services.
+- **Appointment Control:** Centralized system to accept, reject, or reschedule appointments.
+- **Comprehensive Reports:** Generate detailed sales and date-wise performance reports.
+- **Customer Insights:** Manage the registered customer database with ease.
+
+---
+
+## 💻 Technology Stack
+
+| Component | Technology |
+| :--- | :--- |
+| **Frontend** | HTML5, CSS3, JavaScript, Bootstrap |
+| **Backend** | PHP (Core) |
+| **Database** | MySQL |
+| **Local Server** | XAMPP / WAMP / MAMP |
+
+---
+
+## ⚙️ Step-by-Step Setup Guide
+
+Follow these steps to get the system running on your local machine:
+
+### 1. Project Placement
+Download and extract the project folder. Move the entire `men hair saloon` folder (or its contents) into your server's root directory (e.g., `C:\xampp\htdocs\` for XAMPP).
+
+### 2. Start Services
+Open your **XAMPP Control Panel** and start both **Apache** and **MySQL**.
+
+### 3. Database Configuration
+1. Open your browser and navigate to `http://localhost/phpmyadmin/`.
+2. Create a new database named **`msmsdb`**.
+3. Select the `msmsdb` database, click on the **Import** tab.
+4. Choose the SQL file located at: `MenSalon/SQL File/msmsdb.sql` and click **Go**.
+
+### 4. Connection Settings
+Ensure the database credentials are correct in the following file:
+`MenSalon/msms/includes/dbconnection.php`
+
+### 5. Launch the Application
+Access the project via your browser:
+- **Client Website:** `http://localhost/men%20hair%20saloon/MenSalon/msms/index.php`
+- **Admin Panel:** `http://localhost/men%20hair%20saloon/MenSalon/msms/admin/index.php`
+
+---
+
+## 🔑 Admin Credentials
+
+| Role | Username | Password |
+| :--- | :--- | :--- |
+| **Administrator** | Abrar Akhunji | 123 |
+
+---
+
+## 📂 Project Structure
+
+- `MenSalon/msms/admin/` - Admin interface and logic.
+- `MenSalon/msms/includes/` - Database connection and shared components.
+- `MenSalon/msms/images/` - System assets and visuals.
+- `MenSalon/SQL File/` - Database schema and initial data.
+
+---
+
+**Developed with ❤️ by [Abrar Akhunji](https://github.com/abrar225)**
+
+For any queries or support, feel free to reach out!

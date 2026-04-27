@@ -1,7 +1,7 @@
 -- Men's Salon Management System (MSMS) Database Script
 -- Project Name: MSMS
 -- Database Name: msmsdb
--- Developer: Madni
+-- Developer: Abrar Akhunji
 -- Date: April 2026
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";

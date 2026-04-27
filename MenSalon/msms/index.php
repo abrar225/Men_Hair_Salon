@@ -2,7 +2,7 @@
 /**
  * Project Name: Men's Salon Management System (MSMS)
  * Description: A web application for managing salon appointments and services.
- * Developer: Madni
+ * Developer: Abrar Akhunji
  * Version: 1.0
  */
 session_start();

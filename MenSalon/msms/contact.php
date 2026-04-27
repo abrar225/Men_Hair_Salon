@@ -66,7 +66,7 @@ include('includes/dbconnection.php');
                         <address>
                             <strong>Email</strong>
                             <br>
-                            madnisheth1234@gmail.com
+                            abrar akhunjisheth1234@gmail.com
                         </address>
                          <address>
                             <strong>Timing</strong>
