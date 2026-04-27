@@ -1,5 +1,6 @@
 <?php
 session_start();
+include_once("includes/dbconnection.php");
 error_reporting(0);
 
   ?>
