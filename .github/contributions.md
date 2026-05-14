@@ -7,3 +7,4 @@
 - [2025-10-25T10:13:38] refactor: clean up internal module structure and comments
 - [2026-05-08T16:43:56] chore: update contribution activity and project metrics
 - [2026-05-08T17:18:56] chore: update contribution activity and project metrics
+- [2026-05-14T11:15:28] refactor: clean up internal module structure and comments
