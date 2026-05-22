@@ -15,3 +15,4 @@
 <!-- [2026-04-18T17:44:44] docs(changelog): update version release notes -->
 <!-- [2026-05-09T17:15:30] fix: minor edge case handling in config parser -->
 <!-- [2026-05-18T21:37:48] docs(changelog): update version release notes -->
+<!-- [2026-05-22T12:22:01] docs(changelog): update version release notes -->
