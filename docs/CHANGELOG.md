@@ -17,3 +17,4 @@
 <!-- [2026-05-18T21:37:48] docs(changelog): update version release notes -->
 <!-- [2026-05-22T12:22:01] docs(changelog): update version release notes -->
 <!-- [2026-06-07T11:22:49] docs(changelog): update version release notes -->
+<!-- [2026-06-09T15:53:29] docs(changelog): update version release notes -->
